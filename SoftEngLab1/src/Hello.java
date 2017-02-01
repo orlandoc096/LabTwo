@@ -9,6 +9,7 @@ public class Hello {
 	if(args[].length > 0) {
 	    
 	System.out.println("Hello " + args[0]);
+	System.out.println("This is a collaborator!");
 
 	}
 
